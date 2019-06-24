@@ -10,4 +10,10 @@ from datetime import datetime, date
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
+#API KEYS and Request Parameters
+tmdb.API_KEY = '2b012f9ecbbab97ec21f8accbe05ca9ed'
+DEVELOPER_KEY = 'AIzaSyB8Gzt0-50t3HoBDv_WNSgo9OhrBG_dwLE'
+YOUTUBE_API_SERVICE_NAME = 'youtube'
+YOUTUBE_API_VERSION = 'v3'
+
 # Create your views here.
